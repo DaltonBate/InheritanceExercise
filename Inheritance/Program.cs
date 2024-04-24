@@ -35,7 +35,7 @@ namespace Inheritance
                Console.WriteLine($"Alive:{animal.IsAlive}");
                Console.WriteLine($"Age:{animal.Age} years old"); 
                Console.WriteLine($"It has {animal.LegCount} legs");
-               Console.WriteLine($"It lives by {animal.LandSeaAir}")
+                Console.WriteLine($"It lives by {animal.LandSeaAir}");
                Console.WriteLine($"");
             }
 
